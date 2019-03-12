@@ -1,0 +1,13 @@
+# ---> Laravel
+/bootstrap/compiled.php
+.env.*.php
+.env.php
+.env
+/vendor/*
+/tests/
+/storage/
+/.idea/
+# ---> VisualStudioCode
+.settings
+
+
